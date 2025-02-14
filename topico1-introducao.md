@@ -1,4 +1,4 @@
-**Introdução à Ciência de Dados**
+# Introdução à Ciência de Dados
 
 A Ciência de Dados é uma área interdisciplinar que combina estatística, matemática, computação e conhecimento de domínio para extrair informações valiosas a partir de dados. Com o crescimento exponencial da quantidade de dados gerados diariamente, a Ciência de Dados tem se tornado essencial para tomada de decisões em diversos setores, como saúde, finanças, indústria e tecnologia.
 

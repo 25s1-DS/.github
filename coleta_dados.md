@@ -1,4 +1,4 @@
-**Coleta de Dados**
+# **Coleta de Dados**
 
 A coleta de dados é a primeira etapa do processo de Ciência de Dados. Envolve a obtenção de informações de diferentes fontes para posterior processamento e análise. A qualidade dos dados coletados impacta diretamente a precisão das análises e previsões.
 

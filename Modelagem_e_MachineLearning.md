@@ -1,8 +1,8 @@
-Modelagem e Machine Learning
+# Modelagem e Machine Learning
 
 A modelagem e o uso de algoritmos de Machine Learning são etapas essenciais para a construção de sistemas preditivos na Ciência de Dados. O objetivo é desenvolver modelos que consigam aprender padrões a partir dos dados e gerar previsões ou classificações.
 
-Principais Etapas da Modelagem
+## Principais Etapas da Modelagem
 
 Divisão dos Dados: Separar os dados em treino, validação e teste para avaliar o desempenho do modelo.
 
@@ -14,7 +14,7 @@ Avaliação do Modelo: Uso de métricas como acurácia, precisão, recall, F1-sc
 
 Ajuste de Hiperparâmetros: Otimização dos parâmetros do modelo para obter melhor desempenho.
 
-Exemplo Prático
+## Exemplo Prático
 
 Uma fintech deseja prever quais clientes estão propensos a atrasar o pagamento de um empréstimo. Para isso:
 

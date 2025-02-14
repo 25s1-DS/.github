@@ -1,8 +1,8 @@
-Limpeza e Processamento de Dados
+# Limpeza e Processamento de Dados
 
 A qualidade dos dados é um dos fatores mais importantes para o sucesso de um projeto de Ciência de Dados. Antes da modelagem, os dados precisam passar por etapas de limpeza e processamento para garantir sua confiabilidade e eficácia.
 
-Principais Etapas da Limpeza de Dados
+## Principais Etapas da Limpeza de Dados
 
 Tratamento de Dados Faltantes: Substituição, remoção ou imputação de valores ausentes.
 
@@ -22,7 +22,7 @@ Codificação de Variáveis Categóricas: Conversão de variáveis categóricas 
 
 Redução de Dimensionalidade: Uso de PCA (Análise de Componentes Principais) para diminuir a complexidade dos dados.
 
-Exemplo Prático
+## Exemplo Prático
 
 Uma empresa de e-commerce deseja analisar o comportamento de compra dos clientes. Para isso, a equipe de dados precisa:
 
@@ -36,11 +36,11 @@ Codificar a categoria do produto adquirido para facilitar a análise preditiva.
 
 Após a limpeza e o processamento, os dados tornam-se mais confiáveis e adequados para modelagem.
 
-Análise Exploratória de Dados
+## Análise Exploratória de Dados
 
 A Análise Exploratória de Dados (EDA - Exploratory Data Analysis) é uma etapa fundamental na Ciência de Dados, que visa compreender a estrutura, padrões e relações presentes nos dados antes da modelagem preditiva.
 
-Principais Técnicas de EDA
+### Principais Técnicas de EDA
 
 Estatísticas Descritivas: Médias, medianas, moda, desvio padrão e distribuição dos dados.
 
