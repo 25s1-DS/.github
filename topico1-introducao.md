@@ -4,12 +4,12 @@ A Ciência de Dados é uma área interdisciplinar que combina estatística, mate
 
 ## **Ciência de Dados na Prática**
 A prática da Ciência de Dados envolve diversas etapas, incluindo:
-- **Coleta de Dados:** Obtém-se dados de diferentes fontes, como bancos de dados, APIs, sensores e redes sociais.
-- **Limpeza e Processamento:** Os dados frequentemente contêm ruídos, valores ausentes e inconsistências que precisam ser tratados.
-- **Análise Exploratória:** A utilização de técnicas estatísticas para compreender padrões, tendências e relações nos dados.
-- **Modelagem e Machine Learning:** Desenvolvimento de modelos preditivos e prescritivos para inferência e automação de decisões.
-- **Visualização de Dados:** Apresentação de informações de forma intuitiva para facilitar a compreensão dos stakeholders.
-- **Implantação e Monitoramento:** Integração dos modelos em sistemas reais e monitoramento de seu desempenho ao longo do tempo.
+- **[Coleta de Dados](./coleta_dados.md):** Obtém-se dados de diferentes fontes, como bancos de dados, APIs, sensores e redes sociais.
+- **[Limpeza e Processamento](./Limpeza%20e%20Processamento.md):** Os dados frequentemente contêm ruídos, valores ausentes e inconsistências que precisam ser tratados.
+- **[Análise Exploratória](./AnaliseExploratoria.md):** A utilização de técnicas estatísticas para compreender padrões, tendências e relações nos dados.
+- **[Modelagem e Machine Learning](./Modelagem_e_MachineLearning.md):** Desenvolvimento de modelos preditivos e prescritivos para inferência e automação de decisões.
+- **[Visualização de Dados](./visualizacao_dados.md):** Apresentação de informações de forma intuitiva para facilitar a compreensão dos stakeholders.
+- **[Implantação e Monitoramento](./Implantacao_e_Monitoramento.md):** Integração dos modelos em sistemas reais e monitoramento de seu desempenho ao longo do tempo.
 
 ## **Diferença entre Cientista de Dados e Engenheiro de Machine Learning**
 Embora ambas as funções estejam relacionadas, elas possuem diferenças distintas:
