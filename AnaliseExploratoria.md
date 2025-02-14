@@ -1,8 +1,8 @@
-Análise Exploratória de Dados
+# Análise Exploratória de Dados
 
 A Análise Exploratória de Dados (EDA - Exploratory Data Analysis) é uma etapa fundamental na Ciência de Dados, que visa compreender a estrutura, padrões e relações presentes nos dados antes da modelagem preditiva.
 
-Principais Técnicas de EDA
+## Principais Técnicas de EDA
 
 Estatísticas Descritivas: Médias, medianas, moda, desvio padrão e distribuição dos dados.
 
@@ -14,7 +14,7 @@ Detecção de Outliers: Uso de técnicas como Z-score e IQR (Interquartile Range
 
 Transformação de Dados: Normalização, padronização e transformações logarítmicas para adequação dos dados ao modelo.
 
-Exemplo Prático
+## Exemplo Prático
 
 Uma empresa de telecomunicações deseja reduzir a taxa de cancelamento de clientes (churn). A equipe de dados conduz uma EDA nos dados de uso dos clientes:
 
