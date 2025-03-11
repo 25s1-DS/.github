@@ -71,3 +71,5 @@ Assim, a escolha entre CPU e GPU depende do tipo de aplicação. Para tarefas co
 - [GPUs disponíveis atualmente pela NVIDIA](https://www.nvidia.com/en-us/geforce/graphics-cards/compare/)
 
 - [Documentação](https://docs.nvidia.com/vgpu/index.html)
+
+- [GPU Performance Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
