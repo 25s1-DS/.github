@@ -98,7 +98,9 @@ return np.random.choice([1, 2, 3, 4, 5, 6], p=np.array(pesos) / sum(pesos))
 
 ---
 ## 3. Teorema de Bayes (20 minutos)
-- Definição formal
+- [Probabilidade em Eng](./prob_em_eng.md)
+- [Probabilidade Amostral](./Topico2%20-%20ProbabilidadeAmostral.md)
+- [Definição formal](./Bayles_explicado.md)
 - Importância na inferência estatística
 
 **Exemplo prático:**
