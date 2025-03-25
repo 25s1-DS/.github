@@ -8,9 +8,9 @@ $$
 $$
 
 Onde:
-- $\mu$é a média,
-- $\sigma$é o desvio padrão,
-- $x$é a variável aleatória.
+- $\mu$ é a média,
+- $\sigma$ é o desvio padrão,
+- $x$ é a variável aleatória.
 
 A distribuição normal é fundamental para a inferência estatística, pois muitas variáveis naturais seguem esse comportamento, como altura, peso e notas de exames padronizados.
 
@@ -37,20 +37,26 @@ $$
 $$
 
 O desvio padrão é a raiz quadrada da variância:
+
 $$
 \sigma = \sqrt{\sigma^2}
 $$
 
 Exemplo:
 Dado o conjunto de dados ${2, 4, 6, 8, 10}$, a média $\mu$ é:
+
 $$
 \mu = \frac{2+4+6+8+10}{5} = 6
 $$
+
 A variância:
+
 $$
 \sigma^2 = \frac{(2-6)^2 + (4-6)^2 + (6-6)^2 + (8-6)^2 + (10-6)^2}{5} = 8
 $$
+
 E o desvio padrão:
+
 $$
 \sigma = \sqrt{8} \approx 2.83
 $$
