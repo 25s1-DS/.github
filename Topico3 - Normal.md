@@ -92,9 +92,10 @@ Um teste de médias entre dois grupos produz um valor-p de 0.03. Como $0.03 < 0.
 3. Se duas variáveis possuem uma covariância positiva, o que isso significa?
 4. Dado o conjunto de pares $(1,3), (2,5), (3,7), (4,9)$, calcule a covariância.
 5. Explique o conceito de correlação negativa.
-6. Se um estudo retorna um p-value de 0.08, devemos rejeitar $H_0$ao nível de 5%? Justifique.
+6. Se um estudo retorna um p-value de 0.08, devemos rejeitar $H_0$ ao nível de 5%? Justifique.
 7. Qual a diferença entre correlação e causalidade?
 8. Para um conjunto de dados com distribuição normal, qual a probabilidade de um valor estar dentro de um desvio padrão da média?
 9. Explique por que o desvio padrão é mais intuitivo que a variância.
-10. Calcule o coeficiente de correlação para os dados $(2,3), (4,6), (6,9), (8,12) \).
+10. Calcule o coeficiente de correlação para os dados $(2,3), (4,6), (6,9), (8,12)$.
 
+- [+ Exercícios ..... ](./colabs/estatistica_basica.ipynb)
