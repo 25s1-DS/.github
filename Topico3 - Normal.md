@@ -66,11 +66,13 @@ $$
 ## 3. Correlação e Covariância
 
 A covariância mede a relação entre duas variáveis:
+
 $$
 Cov(X, Y) = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{n-1}
 $$
 
 A correlação de Pearson é a padronização da covariância:
+
 $$
  r = \frac{Cov(X,Y)}{\sigma_X \sigma_Y}
 $$
