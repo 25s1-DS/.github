@@ -61,7 +61,7 @@ Se as temperaturas em uma cidade variam entre 10°C e 35°C, a amplitude é **35
 
 A amplitude é usada para entender variações climáticas ou oscilações de preço em mercados financeiros.
 
-## 4. Distribuições Estatísticas
+## 4. [Distribuições Estatísticas](./colabs/Distribuicoes.ipynb)
 Distribuições estatísticas descrevem como os dados se distribuem e são essenciais para modelagem estatística. Elas surgiram para ajudar a prever fenômenos naturais e sociais, como crescimento populacional, flutuações econômicas e resultados de experiências.
 
 ### 4.1. [Distribuição Normal](./Topico3%20-%20Normal.md)
