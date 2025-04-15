@@ -177,7 +177,7 @@ Essas correlações são mais adequadas para relações monotônicas não linear
 ## **Cenário**  
 Uma empresa quer entender se seus gastos com publicidade estão realmente impulsionando as vendas. Para isso, coletou dados mensais dos últimos 3 anos sobre:  
 
-- **Investimento em publicidade ($)**
+- **Investimento em publicidade (\$)**
 - **Número de vendas realizadas (unidades)**
 - **Número de visitas ao site (tráfego)**
 - **Taxa de conversão (%)**
