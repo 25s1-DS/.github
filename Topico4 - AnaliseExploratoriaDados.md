@@ -35,3 +35,5 @@ Uma empresa de telecomunicações deseja reduzir a taxa de cancelamento de clien
 - https://github.com/25s1-DS/.github/blob/main/colabs/Dimensionalidade3.ipynb
   
 - https://github.com/25s1-DS/.github/blob/main/colabs/SVD_on_images.ipynb
+
+- https://github.com/25s1-DS/.github/blob/main/colabs/EDP.ipynb
