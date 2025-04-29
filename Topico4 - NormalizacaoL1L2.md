@@ -9,18 +9,16 @@ Na **análise exploratória de dados (EDA)**, o uso de **normalização L1 e L2*
 - **Normalização L1 (Manhattan norm):**
   - Transforma cada amostra (linha) de forma que a **soma dos valores absolutos** das suas características seja igual a 1.
   - Fórmula:  
-    $$
-    
-    x_{i}^{\text{norm}} = \frac{x_i}{\sum_{j=1}^{n} |x_j|}
-    
-    $$
+$$
+x_{i}^{\text{norm}} = \frac{x_i}{\sum_{j=1}^{n} |x_j|}
+$$
 
 - **Normalização L2 (Euclidean norm):**
   - Transforma cada amostra de forma que a **soma dos quadrados** das suas características seja igual a 1 (ou seja, norma euclidiana = 1).
   - Fórmula:  
-   $$
-    x_{i}^{\text{norm}} = \frac{x_i}{\sqrt{\sum_{j=1}^{n} x_j^2}}
-    $$
+$$
+x_{i}^{\text{norm}} = \frac{x_i}{\sqrt{\sum_{j=1}^{n} x_j^2}}
+$$
 
 ---
 
